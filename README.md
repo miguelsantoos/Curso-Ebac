@@ -6,3 +6,5 @@ Segundo commit
 Terceiro commit
 Quarto commit
 
+Testando squash
+Agora o teste
